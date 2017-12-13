@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\bin\Debug\netcoreapp2.0\Online_signup_sample_CSharp.deps.json
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\bin\Debug\netcoreapp2.0\Online_signup_sample_CSharp.runtimeconfig.json
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\bin\Debug\netcoreapp2.0\Online_signup_sample_CSharp.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\bin\Debug\netcoreapp2.0\Online_signup_sample_CSharp.dll
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\bin\Debug\netcoreapp2.0\Online_signup_sample_CSharp.pdb
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\obj\Debug\netcoreapp2.0\Online_signup_sample_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\obj\Debug\netcoreapp2.0\Online_signup_sample_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\obj\Debug\netcoreapp2.0\Online_signup_sample_CSharp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\obj\Debug\netcoreapp2.0\Online_signup_sample_CSharp.AssemblyInfo.cs
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\obj\Debug\netcoreapp2.0\Online_signup_sample_CSharp.dll
+C:\Users\admin\source\repos\Online_signup_sample_CSharp\Online_signup_sample_CSharp\obj\Debug\netcoreapp2.0\Online_signup_sample_CSharp.pdb

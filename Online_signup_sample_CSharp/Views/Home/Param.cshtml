@@ -1,0 +1,12 @@
+﻿
+@if (@ViewBag.Message != null)
+{
+<script type="text/javascript">
+    window.onload = function ()
+    {
+        alert('@Html.Raw(@ViewBag.Message)');
+    };
+</script>
+
+}
+<meta http-equiv="refresh" content="0; url=/Home/Index" />
